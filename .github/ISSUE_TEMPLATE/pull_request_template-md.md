@@ -1,9 +1,9 @@
 ---
-name: 'add pullRequest '
-about: Describe this issue template's purpose here.
+name: PULL_REQUEST_TEMPLATE.md
+about: add-pullrequest
 title: pullRequest
 labels: pullRequest
-assignees: ''
+assignees: rluispdev
 
 ---
 
